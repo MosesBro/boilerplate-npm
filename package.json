@@ -13,5 +13,6 @@
 	},
 	"author": "Aaron Elliott",
 	"description": "A project that does something awesome",
-	"keywords": ["freecodecamp"]
+	"keywords": ["freecodecamp"],
+	"license": "MIT"
 }
