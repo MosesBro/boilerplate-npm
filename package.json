@@ -14,5 +14,6 @@
 	"author": "Aaron Elliott",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "3.14"
 }
